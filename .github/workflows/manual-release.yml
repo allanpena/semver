@@ -1,12 +1,11 @@
-name: Release
+name: Create Release
 
 on:
-  push:
-    branches: 
-      -alpha
-  pull_request:
-    branches: 
-      -alpha
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch to release"
+        required: true
 
 jobs:
   release:
@@ -21,8 +20,8 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      
-      - name: Setup Node.js 
+
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 20
