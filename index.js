@@ -7,3 +7,6 @@ console.log(version2);
 
 // alpha fix 1
 // alpha fix 2
+// fix 3
+
+// feature 1
