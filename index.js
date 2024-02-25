@@ -10,5 +10,6 @@ console.log(version2);
 // fix 3
 
 // feature 1
+// feature 1
 
-// breaking change 1
+// breaking change 2
