@@ -9,10 +9,7 @@ console.log(version2);
 // alpha fix 2
 // fix 3
 
-<<<<<<< Updated upstream
 // feature 1
-=======
 // feature 1
 
 // breaking change 2
->>>>>>> Stashed changes
