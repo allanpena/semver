@@ -18,3 +18,4 @@ console.log(version2);
 // breaking change 3
 
 // manually inserting new tag
+// manually inserting new tag
