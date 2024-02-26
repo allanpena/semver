@@ -1,3 +1,10 @@
+## [3.2.2-alpha.2](https://github.com/allanpena/semver/compare/v3.2.2-alpha.1...v3.2.2-alpha.2) (2024-02-26)
+
+
+### Bug Fixes
+
+* blah blah ([b223293](https://github.com/allanpena/semver/commit/b2232932013cdff94286707810c60ef483ad36f7))
+
 ## [3.2.2-alpha.1](https://github.com/allanpena/semver/compare/v3.2.1...v3.2.2-alpha.1) (2024-02-26)
 
 
