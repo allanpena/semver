@@ -13,6 +13,13 @@ console.log(version2);
 // feature 1
 
 // breaking change 2
+
+// alpha 3
 // breaking change 3
 
+// manually inserting new tag
+// manually inserting new tag
+// manually inserting new tag
+// manually inserting new tag
+// manually inserting new tag
 // manually inserting new tag
