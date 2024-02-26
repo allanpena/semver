@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/allanpena/semver/compare/v3.2.2...v3.3.0) (2024-02-26)
+
+
+### Features
+
+* rebase ([33bbd03](https://github.com/allanpena/semver/commit/33bbd03c3c682a87f94f604c3bfc3302d521ffbf))
+
 ## [3.2.2](https://github.com/allanpena/semver/compare/v3.2.1...v3.2.2) (2024-02-26)
 
 
