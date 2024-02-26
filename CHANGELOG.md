@@ -1,3 +1,10 @@
+## [3.2.2](https://github.com/allanpena/semver/compare/v3.2.1...v3.2.2) (2024-02-26)
+
+
+### Bug Fixes
+
+* **index:** another fix ([cbd550d](https://github.com/allanpena/semver/commit/cbd550d924564d894a4dfb7bbbb63043061d65ca))
+
 ## [3.2.2-alpha.1](https://github.com/allanpena/semver/compare/v3.2.1...v3.2.2-alpha.1) (2024-02-26)
 
 
