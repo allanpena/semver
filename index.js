@@ -23,5 +23,11 @@ console.log(version2);
 // manually inserting new tag
 // manually inserting new tag
 // manually inserting new tag
+// manually inserting new tag
+// manually inserting new tag
+
+
+// feat with scope
+// fix with spaced scope
 
 // see what changelog looks like if pre release 
