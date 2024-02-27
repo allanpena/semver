@@ -1,3 +1,18 @@
+# [3.4.0-beta.2](https://github.com/allanpena/semver/compare/v3.4.0-beta.1...v3.4.0-beta.2) (2024-02-27)
+
+
+### Bug Fixes
+
+* after rebase ([4bac0bf](https://github.com/allanpena/semver/commit/4bac0bf6ae585691a9b69096b144b36c5a7fbc77))
+* blah blah ([82cbad3](https://github.com/allanpena/semver/commit/82cbad3e948aae7eec18ebda4aa08c8bb76a3def))
+
+# [3.4.0-beta.1](https://github.com/allanpena/semver/compare/v3.3.0...v3.4.0-beta.1) (2024-02-27)
+
+
+### Features
+
+* new beta branch ([375154b](https://github.com/allanpena/semver/commit/375154b175791508262868f3591afefb2112c112))
+
 ## [3.3.1-alpha.1](https://github.com/allanpena/semver/compare/v3.3.0...v3.3.1-alpha.1) (2024-02-26)
 
 
