@@ -1,3 +1,10 @@
+# [3.4.0-beta.1](https://github.com/allanpena/semver/compare/v3.3.0...v3.4.0-beta.1) (2024-02-27)
+
+
+### Features
+
+* new beta branch ([375154b](https://github.com/allanpena/semver/commit/375154b175791508262868f3591afefb2112c112))
+
 # [3.3.0](https://github.com/allanpena/semver/compare/v3.2.2...v3.3.0) (2024-02-26)
 
 
