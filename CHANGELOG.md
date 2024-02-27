@@ -5,6 +5,14 @@
 
 * new beta branch ([375154b](https://github.com/allanpena/semver/commit/375154b175791508262868f3591afefb2112c112))
 
+## [3.3.1-alpha.1](https://github.com/allanpena/semver/compare/v3.3.0...v3.3.1-alpha.1) (2024-02-26)
+
+
+### Bug Fixes
+
+* after rebase ([4bac0bf](https://github.com/allanpena/semver/commit/4bac0bf6ae585691a9b69096b144b36c5a7fbc77))
+* blah blah ([82cbad3](https://github.com/allanpena/semver/commit/82cbad3e948aae7eec18ebda4aa08c8bb76a3def))
+
 # [3.3.0](https://github.com/allanpena/semver/compare/v3.2.2...v3.3.0) (2024-02-26)
 
 
@@ -13,11 +21,13 @@
 * rebase ([33bbd03](https://github.com/allanpena/semver/commit/33bbd03c3c682a87f94f604c3bfc3302d521ffbf))
 
 ## [3.2.2](https://github.com/allanpena/semver/compare/v3.2.1...v3.2.2) (2024-02-26)
+## [3.2.2-alpha.2](https://github.com/allanpena/semver/compare/v3.2.2-alpha.1...v3.2.2-alpha.2) (2024-02-26)
 
 
 ### Bug Fixes
 
 * **index:** another fix ([cbd550d](https://github.com/allanpena/semver/commit/cbd550d924564d894a4dfb7bbbb63043061d65ca))
+* blah blah ([b223293](https://github.com/allanpena/semver/commit/b2232932013cdff94286707810c60ef483ad36f7))
 
 ## [3.2.2-alpha.1](https://github.com/allanpena/semver/compare/v3.2.1...v3.2.2-alpha.1) (2024-02-26)
 
