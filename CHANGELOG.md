@@ -1,3 +1,16 @@
+# [4.0.0](https://github.com/allanpena/semver/compare/v3.4.0...v4.0.0) (2024-02-29)
+
+
+### Features
+
+* breaking change ([981935d](https://github.com/allanpena/semver/commit/981935dfff3e975a7833fe718203f96b5a5ba732))
+
+
+### BREAKING CHANGES
+
+* 
+* occurred!
+
 # [3.4.0](https://github.com/allanpena/semver/compare/v3.3.0...v3.4.0) (2024-02-27)
 
 
