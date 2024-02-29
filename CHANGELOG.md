@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/allanpena/semver/compare/v4.0.0...v4.0.1) (2024-02-29)
+
+
+### Bug Fixes
+
+* main 2 ([7a21691](https://github.com/allanpena/semver/commit/7a216917c3efa3f822cf0ec2b11b7647c7abe895))
+
 # [4.0.0](https://github.com/allanpena/semver/compare/v3.4.0...v4.0.0) (2024-02-29)
 
 
