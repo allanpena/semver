@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/allanpena/semver/compare/v4.0.1...v4.1.0) (2024-03-01)
+
+
+### Features
+
+* feature next branch ([c1d134b](https://github.com/allanpena/semver/commit/c1d134b0efe46fcf3865c1a3419fcc5d29a49796))
+
 ## [4.0.1](https://github.com/allanpena/semver/compare/v4.0.0...v4.0.1) (2024-02-29)
 
 
