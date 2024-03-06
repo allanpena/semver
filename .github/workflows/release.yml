@@ -4,13 +4,19 @@ on:
   push:
     branches: 
       - main
+      - next
+      - next-major
       - alpha
       - beta
+      - "*.x"
   pull_request:
     branches: 
       - main
+      - next
+      - next-major
       - alpha
       - beta
+      - "*.x"
 
 jobs:
   release:
