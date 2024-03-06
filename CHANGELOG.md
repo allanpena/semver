@@ -1,3 +1,20 @@
+## [4.1.3](https://github.com/allanpena/semver/compare/v4.1.2...v4.1.3) (2024-03-06)
+
+
+### Bug Fixes
+
+* Update index.js ([d21c69a](https://github.com/allanpena/semver/commit/d21c69a03071c14fe39922e41e816e13f45f227b))
+
+## [4.1.2](https://github.com/allanpena/semver/compare/v4.1.1...v4.1.2) (2024-03-06)
+
+# [3.4.0-alpha.2](https://github.com/allanpena/semver/compare/v3.4.0-alpha.1...v3.4.0-alpha.2) (2024-03-06)
+
+
+
+### Bug Fixes
+
+* Update index.js ([2278e34](https://github.com/allanpena/semver/commit/2278e34e9092c241a680ecaa688757d01e72fc38))
+
 ## [4.1.1](https://github.com/allanpena/semver/compare/v4.1.0...v4.1.1) (2024-03-06)
 
 
@@ -44,6 +61,7 @@
 ### Features
 
 * new beta branch ([375154b](https://github.com/allanpena/semver/commit/375154b175791508262868f3591afefb2112c112))
+* Update index.js ([d21c69a](https://github.com/allanpena/semver/commit/d21c69a03071c14fe39922e41e816e13f45f227b))
 
 # [3.4.0-alpha.1](https://github.com/allanpena/semver/compare/v3.3.1-alpha.1...v3.4.0-alpha.1) (2024-02-27)
 
