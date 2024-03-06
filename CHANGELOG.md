@@ -1,3 +1,10 @@
+## [4.1.1](https://github.com/allanpena/semver/compare/v4.1.0...v4.1.1) (2024-03-06)
+
+
+### Bug Fixes
+
+* add 4.1.x ([ce761a7](https://github.com/allanpena/semver/commit/ce761a7edbfa0e3f71055601d43d49f14860ad17))
+
 # [4.1.0](https://github.com/allanpena/semver/compare/v4.0.1...v4.1.0) (2024-03-01)
 
 
