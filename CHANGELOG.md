@@ -1,3 +1,10 @@
+## [4.1.4](https://github.com/allanpena/semver/compare/v4.1.3...v4.1.4) (2024-03-06)
+
+
+### Bug Fixes
+
+* Update index.js ([361b76c](https://github.com/allanpena/semver/commit/361b76c252cd05df0c4176f0fc4556da36449013))
+
 ## [4.1.3](https://github.com/allanpena/semver/compare/v4.1.2...v4.1.3) (2024-03-06)
 
 
