@@ -1,3 +1,10 @@
+# [3.4.0-alpha.2](https://github.com/allanpena/semver/compare/v3.4.0-alpha.1...v3.4.0-alpha.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* Update index.js ([d21c69a](https://github.com/allanpena/semver/commit/d21c69a03071c14fe39922e41e816e13f45f227b))
+
 # [3.4.0-alpha.1](https://github.com/allanpena/semver/compare/v3.3.1-alpha.1...v3.4.0-alpha.1) (2024-02-27)
 
 
