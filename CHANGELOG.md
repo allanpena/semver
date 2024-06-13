@@ -1,3 +1,10 @@
+## [4.1.5-alpha.4](https://github.com/allanpena/semver/compare/v4.1.5-alpha.3...v4.1.5-alpha.4) (2024-06-13)
+
+
+### Bug Fixes
+
+* update .releaserc ([309a665](https://github.com/allanpena/semver/commit/309a6652bb479b124611b47fa9b57e97f6bbb912))
+
 ## [4.1.5-alpha.3](https://github.com/allanpena/semver/compare/v4.1.5-alpha.2...v4.1.5-alpha.3) (2024-06-13)
 
 
