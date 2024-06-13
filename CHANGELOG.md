@@ -1,10 +1,16 @@
-## [4.1.7](https://github.com/allanpena/semver/compare/v4.1.6...v4.1.7) (2024-06-13)
+## [4.1.5-alpha.5](https://github.com/allanpena/semver/compare/v4.1.5-alpha.4...v4.1.5-alpha.5) (2024-06-13)
 
 
 ### Bug Fixes
 
-* Allanpena patch 1 ([#20](https://github.com/allanpena/semver/issues/20)) ([dfa5fed](https://github.com/allanpena/semver/commit/dfa5fedf6fae5838ffdd3998f5a23d632633be10)), closes [#17](https://github.com/allanpena/semver/issues/17)
-* update package.json ([6cbc73c](https://github.com/allanpena/semver/commit/6cbc73c2fb372be7fa97a24466add442572c4379))
+* update ([f932396](https://github.com/allanpena/semver/commit/f93239693bca533bf7fd4d9eba5931b8b845fe8c))
+
+## [4.1.5-alpha.4](https://github.com/allanpena/semver/compare/v4.1.5-alpha.3...v4.1.5-alpha.4) (2024-06-13)
+
+
+### Bug Fixes
+
+* update .releaserc ([309a665](https://github.com/allanpena/semver/commit/309a6652bb479b124611b47fa9b57e97f6bbb912))
 
 ## [4.1.5-alpha.3](https://github.com/allanpena/semver/compare/v4.1.5-alpha.2...v4.1.5-alpha.3) (2024-06-13)
 
